@@ -1,7 +1,7 @@
 from openai import OpenAI
 import gradio
 
-client = OpenAI(api_key="<insert API key>")
+client = OpenAI()
 MODELS = ["gpt-3.5-turbo", "gpt-4-turbo"]
 DEFAULT_SYSTEM_ROLE = "You are a helpful assistant."
 
