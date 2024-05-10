@@ -41,7 +41,7 @@ This Python project provides a simple interface to interact with the OpenAI Chat
      python chatgpt-api-assistant.py
      ```
 
-3. Open a browser and navigate to `http://localhost:7860/`. You can now add in your own custom system preamble to set the tone of the model. Choose your model, and enter your prompt.
+3. Open a browser and navigate to [OpenAI API documentation](http://localhost:7860/). You can now add in your own custom system preamble to set the tone of the model. Choose your model, and enter your prompt.
 
 **Note:** Ensure that you comply with [OpenAi's use case policy](https://beta.openai.com/policies/use-case-policy) while using this tool.
 
